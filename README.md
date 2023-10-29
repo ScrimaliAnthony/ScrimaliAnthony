@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **An E-commerce Site**
  
-🌱 I’m currently learning **Sequelize, Jest, TypeScript**
+🌱 I’m currently learning **Ruby, Vue, TypeScript**
 
 💬 Ask me about **Node.js, Express, React, PostgreSQL, MySQL**
 
