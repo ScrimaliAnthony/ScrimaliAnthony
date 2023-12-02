@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **An E-commerce Site**
  
-🌱 I’m currently learning **Ruby, Vue, TypeScript**
+🌱 I’m currently learning **Network, C#, TypeScript**
 
 💬 Ask me about **Node.js, Express, React, PostgreSQL, MySQL**
 
@@ -37,7 +37,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,php,java,postman,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postman,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=netlify,gcp,vscode,github,git" /><br>
 </div>
 
