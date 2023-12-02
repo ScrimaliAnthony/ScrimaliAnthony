@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **An E-commerce Site**
  
-🌱 I’m currently learning **Network, C#, TypeScript**
+🌱 I’m currently learning **Network, C#, Unity, TypeScript**
 
 💬 Ask me about **Node.js, Express, React, PostgreSQL, MySQL**
 
