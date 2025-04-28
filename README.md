@@ -20,7 +20,6 @@
 - Je suis en train d'apprendre **TypeScript, Java, C** et **AEM**
 - Mes langages et frameworks de références sont **Node.js, Express, React, PostgreSQL**
 
-
 <hr/>
 
 <div align="center">
@@ -32,9 +31,9 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,python,postman,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=netlify,gcp,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,astro,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,express,python,postman,mysql,postgresql" /><br>
+    <img src="https://skillicons.dev/icons?i=netlify,vercel,gcp,vscode,github,git" /><br>
 </div>
 <hr/>
 
