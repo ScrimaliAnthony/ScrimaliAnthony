@@ -5,14 +5,14 @@ import datetime
 from xml.sax.saxutils import escape
 
 # — CONFIGURATION VISUELLE —
-WIDTH, HEIGHT = 1200, 380      # système de coordonnées interne
+WIDTH, HEIGHT = 1200, 380 
 LEFT_PAD, RIGHT_PAD = 50, 50
-TOP, BOTTOM = 50, HEIGHT - 100 # on réserve 100px en bas pour la légende
+TOP, BOTTOM = 50, HEIGHT - 100
 YEAR = datetime.date.today().year
 START = datetime.date(YEAR, 1, 1)
 WEEK_WIDTH = (WIDTH - LEFT_PAD - RIGHT_PAD) / 53
 
-# Rails horizontaux (“craie pastel”), avec plus d’espace au-dessus de l’école
+# Rails horizontaux
 usable_height = BOTTOM - TOP
 lanes = {
   "school":   {"y": TOP + 0.2 * usable_height, "color": "#A3B18A", "label": "École (Epitech)"},
