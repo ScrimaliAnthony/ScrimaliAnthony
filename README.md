@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Scrimali+Anthony!;" />
 </h1>
     
-<h3 align="center">Searching for Alternance</h3>
+<h3 align="center">I am currently working for CGI</h3>
      
 <br/>
     
@@ -12,7 +12,7 @@
 
 🔭 I’m currently working on **An E-commerce Site**
  
-🌱 I’m currently learning **TypeScript, MongoDB, Angular, Nest**
+🌱 I’m currently learning **TypeScript, Java, C**
 
 💬 Ask me about **Node.js, Express, React, PostgreSQL, MySQL**
  
