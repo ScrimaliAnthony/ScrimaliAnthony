@@ -5,14 +5,14 @@ import datetime
 from xml.sax.saxutils import escape
 
 # — CONFIGURATION VISUELLE —
-WIDTH, HEIGHT = 1200, 380      # +20px en hauteur pour plus d’espace
+WIDTH, HEIGHT = 1200, 380      # Système de coordonnées interne
 LEFT_PAD, RIGHT_PAD = 50, 50
-TOP, BOTTOM = 50, HEIGHT - 100 # on réserve 100px en bas pour la légende
+TOP, BOTTOM = 50, HEIGHT - 100 # 100px réservés en bas pour la légende
 YEAR = datetime.date.today().year
 START = datetime.date(YEAR, 1, 1)
 WEEK_WIDTH = (WIDTH - LEFT_PAD - RIGHT_PAD) / 53
 
-# Rails horizontaux
+# Rails horizontaux (“craie pastel”)
 usable_height = BOTTOM - TOP
 lanes = {
   "school":   {"y": TOP + 0.1 * usable_height, "color": "#A3B18A", "label": "École (Epitech)"},
@@ -20,14 +20,14 @@ lanes = {
   "personal": {"y": TOP + 0.9 * usable_height, "color": "#CDB4DB", "label": "Personnel"},
 }
 
-# Couleurs des points
+# Couleurs des points selon type d’événement
 type_colors = {
   "certification": "#81B29A",
   "diploma":        "#AAB7F7",
   "project":        "#F3DFA2",
 }
 
-# Charger les events
+# Chargement des événements
 with open('data/events.json', encoding='utf-8') as f:
     events = json.load(f)
 
@@ -37,10 +37,13 @@ def week_index(d: datetime.date) -> int:
 today = datetime.date.today()
 current_wi = week_index(today)
 
-# — DÉBUT DU SVG —
+# — DÉBUT DU SVG (responsive) —
 svg = [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">',
+    f'<svg xmlns="http://www.w3.org/2000/svg" '
+    f'     viewBox="0 0 {WIDTH} {HEIGHT}" '
+    f'     width="100%" '
+    f'     preserveAspectRatio="xMidYMid meet">',
     """
     <style>
       .month-line  { stroke: #c00; stroke-width: 2; }
@@ -67,8 +70,9 @@ for m in range(1, 13):
     wi = week_index(d)
     x = LEFT_PAD + wi * WEEK_WIDTH
     svg.append(f'<line x1="{x}" y1="{TOP}" x2="{x}" y2="{BOTTOM}" class="month-line" />')
+    # Mois agrandis
     svg.append(
-      f'<text x="{x}" y="{TOP - 5}" text-anchor="middle" font-size="12" fill="#c00">'
+      f'<text x="{x}" y="{TOP - 5}" text-anchor="middle" font-size="16" fill="#c00">'
       f'{d.strftime("%b")}</text>'
     )
 
@@ -90,21 +94,18 @@ for ev in events:
     color  = type_colors.get(ev["type"], "#000")
     label  = escape(ev["label"])
     svg.append('<g>')
-    # point
     svg.append(f'  <circle cx="{x}" cy="{y}" r="4" fill="{color}" />')
-    # onde sonar
     svg.append(f'  <circle class="sonar" cx="{x}" cy="{y}" fill="{color}" />')
-    # label
+    # Label agrandi
     svg.append(
-      f'  <text x="{x}" y="{y - 8}" text-anchor="middle" font-size="10" fill="#000">'
+      f'  <text x="{x}" y="{y - 8}" text-anchor="middle" font-size="14" fill="#000">'
       f'{label}</text>'
     )
     svg.append('</g>')
 
-# Légende sous la timeline (une seule ligne)
+# Légende sous la timeline (une seule ligne), textes agrandis
 legend_y = BOTTOM + 20
 available_width = WIDTH - LEFT_PAD - RIGHT_PAD
-# Construire items rails + points
 legend_items = []
 for _, info in lanes.items():
     legend_items.append(("line", info["color"], info["label"]))
@@ -120,12 +121,12 @@ for i, (shape, col, lbl) in enumerate(legend_items):
           f'<line x1="{lx}" y1="{legend_y}" x2="{lx+30}" y2="{legend_y}" '
           f'stroke="{col}" stroke-width="4" />'
         )
-        tx, ty = lx + 35, legend_y + 4
+        tx, ty = lx + 35, legend_y + 6
     else:
         svg.append(f'<circle cx="{lx}" cy="{legend_y}" r="5" fill="{col}" />')
-        tx, ty = lx + 10, legend_y + 4
+        tx, ty = lx + 10, legend_y + 6
     svg.append(
-      f'<text x="{tx}" y="{ty}" font-size="12" fill="#000">{lbl}</text>'
+      f'<text x="{tx}" y="{ty}" text-anchor="start" font-size="16" fill="#000">{lbl}</text>'
     )
 
 svg.append('</svg>')
