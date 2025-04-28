@@ -5,14 +5,14 @@ import datetime
 from xml.sax.saxutils import escape
 
 # — CONFIGURATION VISUELLE —
-WIDTH, HEIGHT = 1200, 380      # Système de coordonnées interne
+WIDTH, HEIGHT = 1200, 380      # même dimensions qu'avant
 LEFT_PAD, RIGHT_PAD = 50, 50
-TOP, BOTTOM = 50, HEIGHT - 100 # 100px réservés en bas pour la légende
+TOP, BOTTOM = 50, HEIGHT - 100 # on réserve toujours 100px en bas pour la légende
 YEAR = datetime.date.today().year
 START = datetime.date(YEAR, 1, 1)
 WEEK_WIDTH = (WIDTH - LEFT_PAD - RIGHT_PAD) / 53
 
-# Rails horizontaux (“craie pastel”)
+# Rails horizontaux
 usable_height = BOTTOM - TOP
 lanes = {
   "school":   {"y": TOP + 0.1 * usable_height, "color": "#A3B18A", "label": "École (Epitech)"},
@@ -20,7 +20,7 @@ lanes = {
   "personal": {"y": TOP + 0.9 * usable_height, "color": "#CDB4DB", "label": "Personnel"},
 }
 
-# Couleurs des points selon type d’événement
+# Couleurs des points
 type_colors = {
   "certification": "#81B29A",
   "diploma":        "#AAB7F7",
@@ -37,13 +37,10 @@ def week_index(d: datetime.date) -> int:
 today = datetime.date.today()
 current_wi = week_index(today)
 
-# — DÉBUT DU SVG (responsive) —
+# — DÉBUT DU SVG —
 svg = [
     '<?xml version="1.0" encoding="UTF-8"?>',
-    f'<svg xmlns="http://www.w3.org/2000/svg" '
-    f'     viewBox="0 0 {WIDTH} {HEIGHT}" '
-    f'     width="100%" '
-    f'     preserveAspectRatio="xMidYMid meet">',
+    f'<svg xmlns="http://www.w3.org/2000/svg" width="{WIDTH}" height="{HEIGHT}" viewBox="0 0 {WIDTH} {HEIGHT}">',
     """
     <style>
       .month-line  { stroke: #c00; stroke-width: 2; }
@@ -70,9 +67,9 @@ for m in range(1, 13):
     wi = week_index(d)
     x = LEFT_PAD + wi * WEEK_WIDTH
     svg.append(f'<line x1="{x}" y1="{TOP}" x2="{x}" y2="{BOTTOM}" class="month-line" />')
-    # Mois agrandis
+    # mois agrandi à 16px
     svg.append(
-      f'<text x="{x}" y="{TOP - 5}" text-anchor="middle" font-size="16" fill="#c00">'
+      f'<text x="{x}" y="{TOP - 5}" text-anchor="middle" font-size="18" fill="#c00">'
       f'{d.strftime("%b")}</text>'
     )
 
@@ -94,16 +91,18 @@ for ev in events:
     color  = type_colors.get(ev["type"], "#000")
     label  = escape(ev["label"])
     svg.append('<g>')
+    # point
     svg.append(f'  <circle cx="{x}" cy="{y}" r="4" fill="{color}" />')
+    # onde sonar
     svg.append(f'  <circle class="sonar" cx="{x}" cy="{y}" fill="{color}" />')
-    # Label agrandi
+    # label agrandi à 14px
     svg.append(
-      f'  <text x="{x}" y="{y - 8}" text-anchor="middle" font-size="14" fill="#000">'
+      f'  <text x="{x}" y="{y - 8}" text-anchor="middle" font-size="18" fill="#000">'
       f'{label}</text>'
     )
     svg.append('</g>')
 
-# Légende sous la timeline (une seule ligne), textes agrandis
+# Légende sous la timeline (une seule ligne), texte agrandi à 16px
 legend_y = BOTTOM + 20
 available_width = WIDTH - LEFT_PAD - RIGHT_PAD
 legend_items = []
@@ -126,7 +125,7 @@ for i, (shape, col, lbl) in enumerate(legend_items):
         svg.append(f'<circle cx="{lx}" cy="{legend_y}" r="5" fill="{col}" />')
         tx, ty = lx + 10, legend_y + 6
     svg.append(
-      f'<text x="{tx}" y="{ty}" text-anchor="start" font-size="16" fill="#000">{lbl}</text>'
+      f'<text x="{tx}" y="{ty}" text-anchor="start" font-size="18" fill="#000">{lbl}</text>'
     )
 
 svg.append('</svg>')

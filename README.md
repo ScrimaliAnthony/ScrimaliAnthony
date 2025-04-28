@@ -8,12 +8,9 @@
      
 <br/>
 
-<p align="center">
-  <a href="./timeline.svg" target="_blank">
-    <img src="./timeline.svg" alt="Timeline 2025 animée" width="1000">
-  </a>
-</p>
-
+<div align="center">
+  <img src="./timeline.svg" alt="Timeline Animée" />
+</div>
     
 <div align="center">
 
