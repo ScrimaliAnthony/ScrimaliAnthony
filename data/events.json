@@ -1,0 +1,23 @@
+[
+  {
+    "date":   "2025-04-28",
+    "label":  "Introduction Java",
+    "type":   "certification",
+    "line":   "personal",
+    "detail": "Certification obtenue sur HyperSkill"
+  },
+  {
+    "date":   "2025-09-01",
+    "label":  "Adobe - AEM",
+    "type":   "diploma",
+    "line":   "company",
+    "detail": "Certification Professional AEM"
+  },
+  {
+    "date":   "2025-06-17",
+    "label":  "Master 1",
+    "type":   "diploma",
+    "line":   "school",
+    "detail": "Fin de la M1 chez Epitech"
+  }
+]

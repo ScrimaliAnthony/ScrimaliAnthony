@@ -1,0 +1,34 @@
+name: 🔄 Mettre à jour la timeline
+
+on:
+  schedule:
+    # tous les lundis à 00:00 UTC
+    - cron: '0 0 * * MON'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Installer Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Installer dépendances
+        run: pip install --upgrade pip
+
+      - name: Générer SVG
+        run: |
+          chmod +x scripts/generate_timeline.py
+          python scripts/generate_timeline.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add timeline.svg
+          git diff --quiet || git commit -m "🔄 Mise à jour automatique de la timeline"
+          git push

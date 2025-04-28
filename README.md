@@ -7,6 +7,10 @@
 <h3 align="center">I am currently working for CGI</h3>
      
 <br/>
+
+<div align="center">
+  <img src="./timeline.svg" alt="Timeline Animée" />
+</div>
     
 <div align="center">
 
