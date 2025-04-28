@@ -5,7 +5,7 @@ import datetime
 from xml.sax.saxutils import escape
 
 # — CONFIGURATION VISUELLE —
-WIDTH, HEIGHT = 900, 380      # Système de coordonnées interne
+WIDTH, HEIGHT = 1200, 380      # Système de coordonnées interne
 LEFT_PAD, RIGHT_PAD = 50, 50
 TOP, BOTTOM = 50, HEIGHT - 100 # 100px réservés en bas pour la légende
 YEAR = datetime.date.today().year
