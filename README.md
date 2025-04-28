@@ -1,14 +1,19 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ScrimaliAnthony.ScrimaliAnthony" />
-
+<!-- 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Scrimali+Anthony!;" />
-</h1>
-    
-<h3 align="center">I am currently working for CGI</h3>
+</h1> -->
+<img src="./images/Banner.png">
+<ul>
+  <li>Je travail Chez CGI</li>
+  <li>Je passe mon master d’Architecte de Systèmes d’Information chez Epitech</li>
+</ul>
+
      
 <br/>
 
 <div align="center">
+  <p>Calendrier de mon apprentissage</p>
   <img src="./timeline.svg" alt="Timeline Animée" />
 </div>
     
