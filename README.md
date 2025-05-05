@@ -28,7 +28,7 @@
 </div>
 
 <details>
-  <summary><h2>📜 Certifications</h2></summary>
+  <summary><h2>📜 Certification Java</h2></summary>
     <p align="center">
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
         <img src="./images/Certification Introduction Java Banner.png"></img>
