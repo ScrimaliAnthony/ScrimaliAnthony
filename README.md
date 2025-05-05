@@ -13,7 +13,7 @@
 </div>
 <hr/>
 
-<h2 align="center">Actuellement</h2>
+<h1 align="center">Actuellement</h1>
 
 - Je travail chez **CGI** sur des sites **E-commerce**
 - Je passe un master **Architecte de Systèmes d’Information** chez **Epitech**
@@ -23,16 +23,16 @@
 <hr/>
 
 <div align="center">
-  <h2>Feuille de route</h2>
+  <h1>Feuille de route</h1>
   <img src="./timeline.svg" alt="Timeline Animée" />
 </div>
 
 <hr/>
 
-<h2 align="center">Certifications</h2>
+<h1 align="center">Certifications</h1>
 
 <details>
-  <summary><h3><img width="30px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h3></summary>
+  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h1></summary>
     <p align="center">
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
         <img src="./images/Certification Introduction Java Banner.png"></img>
@@ -86,7 +86,7 @@
 
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,astro,vite" /><br>
     <img src="https://skillicons.dev/icons?i=java,nodejs,express,python,postman,mysql,postgresql" /><br>
@@ -95,7 +95,7 @@
 <hr/>
 
 <div align="center">
-  <h2>Mes contributions</h2>
+  <h1>Mes contributions</h1>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ScrimaliAnthony/ScrimaliAnthony/output/github-contribution-grid-snake.svg" />
 </div>
