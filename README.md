@@ -27,8 +27,12 @@
   <img src="./timeline.svg" alt="Timeline Animée" />
 </div>
 
+<hr/>
+
+<h2 align="center">Certifications</h2>
+
 <details>
-  <summary><h2>📜 Certification Java</h2></summary>
+  <summary><h3><img width="50px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h3></summary>
     <p align="center">
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
         <img src="./images/Certification Introduction Java Banner.png"></img>
@@ -79,6 +83,8 @@
       </a>
     </p>
 </details>
+
+<hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center">
