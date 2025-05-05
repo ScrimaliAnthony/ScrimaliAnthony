@@ -39,42 +39,42 @@
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java"
           alt="Battleship-Java"
-          width="33%"
+          width="50%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java"
           alt="BullsAndCows-Java"
-          width="33%"
+          width="50%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java"
           alt="CoffeeMachineSimulator-Java"
-          width="33%"
+          width="50%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/LastPencils-Java" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java"
           alt="LastPencils-Java"
-          width="33%"
+          width="50%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java"
           alt="CinemaRoomManager-Java"
-          width="33%"
+          width="50%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java"
           alt="TicTacToe-Java"
-          width="33%"
+          width="50%"
         />
       </a>
     </p>
