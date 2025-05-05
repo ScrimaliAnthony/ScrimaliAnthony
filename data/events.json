@@ -16,5 +16,11 @@
     "label":  "Master 1",
     "type":   "diploma",
     "line":   "school"
+  },
+  {
+    "date":   "2025-07-21",
+    "label":  "Harvard CS50x",
+    "type":   "certification",
+    "line":   "personal"
   }
 ]

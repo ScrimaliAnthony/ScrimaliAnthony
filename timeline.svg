@@ -109,6 +109,11 @@
   <circle class="sonar" cx="527.3584905660377" cy="107.5" fill="#00CED1" />
   <text x="527.3584905660377" y="97.5" text-anchor="middle" font-size="14" fill="#000">Master 1</text>
 </g>
+<g>
+  <circle cx="631.1320754716982" cy="222.5" r="5" fill="#32CD32" />
+  <circle class="sonar" cx="631.1320754716982" cy="222.5" fill="#32CD32" />
+  <text x="631.1320754716982" y="212.5" text-anchor="middle" font-size="14" fill="#000">Harvard CS50x</text>
+</g>
 <line x1="50.0" y1="300" x2="80.0" y2="300" stroke="#1E90FF" stroke-width="4" />
 <text x="85.0" y="306" text-anchor="start" font-size="16" fill="#000">École (Epitech)</text>
 <line x1="233.33333333333334" y1="300" x2="263.33333333333337" y2="300" stroke="#FF8C00" stroke-width="4" />
