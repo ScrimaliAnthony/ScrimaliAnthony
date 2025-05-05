@@ -85,7 +85,7 @@
 </details>
 
 <details>
-  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=c"/>Harvard CS50x (En cours)</h1></summary>
+  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=c"/> Harvard CS50x (En cours)</h1></summary>
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/CS50x" target="_blank">
         <img
