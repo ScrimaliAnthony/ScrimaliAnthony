@@ -31,7 +31,7 @@
   <summary><h2>📜 Certifications</h2></summary>
     <p align="center">
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
-        <img src="https://skillicons.dev/icons?i=java"></img>
+        <img src="./images/Certification Introduction Java Banner.png"></img>
       </a>
     </p>
     <p align="center">
