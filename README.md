@@ -84,6 +84,26 @@
     </p>
 </details>
 
+<details>
+  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=c"/>Harvard CS50x (En cours)</h1></summary>
+    <p align="center">
+      <a href="https://github.com/ScrimaliAnthony/CS50x" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x"
+          alt="CS50x"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/Exercices_C" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Exercices_C"
+          alt="Exercices_C"
+          width="49%"
+        />
+      </a>
+    </p>
+</details>
+
 <hr/>
  
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
