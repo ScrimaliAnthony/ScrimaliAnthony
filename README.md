@@ -32,7 +32,7 @@
 <h2 align="center">Certifications</h2>
 
 <details>
-  <summary><h3><img width="50px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h3></summary>
+  <summary><h3><img width="30px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h3></summary>
     <p align="center">
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
         <img src="./images/Certification Introduction Java Banner.png"></img>
