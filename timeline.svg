@@ -2,17 +2,41 @@
 <svg xmlns="http://www.w3.org/2000/svg"      viewBox="0 0 1200 380"      width="100%"      preserveAspectRatio="xMidYMid meet">
 
     <style>
-      .month-line  { stroke: #c00; stroke-width: 2; }
-      .week-line   { stroke: #f88; stroke-width: 1; }
-      .current     { stroke: #0a0; stroke-width: 2; }
+      .month-line  { stroke: #c00;  stroke-width: 2; }
+      .week-line   { stroke: #f88;  stroke-width: 1; }
+      .current     { stroke: #0a0;  stroke-width: 3; }
       .sonar       { animation: pulse 2s ease-out infinite; }
       @keyframes pulse {
-        0%   { r: 4;   opacity: 0.8; }
+        0%   { r: 5;   opacity: 0.8; }
         100% { r: 20;  opacity: 0;   }
       }
       text { font-family: sans-serif; }
     </style>
     
+<line x1="50.0" y1="50" x2="50.0" y2="280" class="month-line" />
+<text x="50.0" y="45" text-anchor="middle" font-size="16" fill="#c00">Jan</text>
+<line x1="133.0188679245283" y1="50" x2="133.0188679245283" y2="280" class="month-line" />
+<text x="133.0188679245283" y="45" text-anchor="middle" font-size="16" fill="#c00">Feb</text>
+<line x1="216.03773584905662" y1="50" x2="216.03773584905662" y2="280" class="month-line" />
+<text x="216.03773584905662" y="45" text-anchor="middle" font-size="16" fill="#c00">Mar</text>
+<line x1="299.0566037735849" y1="50" x2="299.0566037735849" y2="280" class="month-line" />
+<text x="299.0566037735849" y="45" text-anchor="middle" font-size="16" fill="#c00">Apr</text>
+<line x1="402.83018867924534" y1="50" x2="402.83018867924534" y2="280" class="month-line" />
+<text x="402.83018867924534" y="45" text-anchor="middle" font-size="16" fill="#c00">May</text>
+<line x1="485.84905660377365" y1="50" x2="485.84905660377365" y2="280" class="month-line" />
+<text x="485.84905660377365" y="45" text-anchor="middle" font-size="16" fill="#c00">Jun</text>
+<line x1="568.867924528302" y1="50" x2="568.867924528302" y2="280" class="month-line" />
+<text x="568.867924528302" y="45" text-anchor="middle" font-size="16" fill="#c00">Jul</text>
+<line x1="672.6415094339623" y1="50" x2="672.6415094339623" y2="280" class="month-line" />
+<text x="672.6415094339623" y="45" text-anchor="middle" font-size="16" fill="#c00">Aug</text>
+<line x1="755.6603773584907" y1="50" x2="755.6603773584907" y2="280" class="month-line" />
+<text x="755.6603773584907" y="45" text-anchor="middle" font-size="16" fill="#c00">Sep</text>
+<line x1="859.433962264151" y1="50" x2="859.433962264151" y2="280" class="month-line" />
+<text x="859.433962264151" y="45" text-anchor="middle" font-size="16" fill="#c00">Oct</text>
+<line x1="942.4528301886793" y1="50" x2="942.4528301886793" y2="280" class="month-line" />
+<text x="942.4528301886793" y="45" text-anchor="middle" font-size="16" fill="#c00">Nov</text>
+<line x1="1025.4716981132076" y1="50" x2="1025.4716981132076" y2="280" class="month-line" />
+<text x="1025.4716981132076" y="45" text-anchor="middle" font-size="16" fill="#c00">Dec</text>
 <line x1="50.0" y1="50" x2="50.0" y2="280" class="week-line" />
 <line x1="70.75471698113208" y1="50" x2="70.75471698113208" y2="280" class="week-line" />
 <line x1="91.50943396226415" y1="50" x2="91.50943396226415" y2="280" class="week-line" />
@@ -67,58 +91,34 @@
 <line x1="1108.490566037736" y1="50" x2="1108.490566037736" y2="280" class="week-line" />
 <line x1="1129.2452830188681" y1="50" x2="1129.2452830188681" y2="280" class="week-line" />
 <line x1="1150.0" y1="50" x2="1150.0" y2="280" class="week-line" />
-<line x1="50.0" y1="50" x2="50.0" y2="280" class="month-line" />
-<text x="50.0" y="45" text-anchor="middle" font-size="16" fill="#c00">Jan</text>
-<line x1="133.0188679245283" y1="50" x2="133.0188679245283" y2="280" class="month-line" />
-<text x="133.0188679245283" y="45" text-anchor="middle" font-size="16" fill="#c00">Feb</text>
-<line x1="216.03773584905662" y1="50" x2="216.03773584905662" y2="280" class="month-line" />
-<text x="216.03773584905662" y="45" text-anchor="middle" font-size="16" fill="#c00">Mar</text>
-<line x1="299.0566037735849" y1="50" x2="299.0566037735849" y2="280" class="month-line" />
-<text x="299.0566037735849" y="45" text-anchor="middle" font-size="16" fill="#c00">Apr</text>
-<line x1="402.83018867924534" y1="50" x2="402.83018867924534" y2="280" class="month-line" />
-<text x="402.83018867924534" y="45" text-anchor="middle" font-size="16" fill="#c00">May</text>
-<line x1="485.84905660377365" y1="50" x2="485.84905660377365" y2="280" class="month-line" />
-<text x="485.84905660377365" y="45" text-anchor="middle" font-size="16" fill="#c00">Jun</text>
-<line x1="568.867924528302" y1="50" x2="568.867924528302" y2="280" class="month-line" />
-<text x="568.867924528302" y="45" text-anchor="middle" font-size="16" fill="#c00">Jul</text>
-<line x1="672.6415094339623" y1="50" x2="672.6415094339623" y2="280" class="month-line" />
-<text x="672.6415094339623" y="45" text-anchor="middle" font-size="16" fill="#c00">Aug</text>
-<line x1="755.6603773584907" y1="50" x2="755.6603773584907" y2="280" class="month-line" />
-<text x="755.6603773584907" y="45" text-anchor="middle" font-size="16" fill="#c00">Sep</text>
-<line x1="859.433962264151" y1="50" x2="859.433962264151" y2="280" class="month-line" />
-<text x="859.433962264151" y="45" text-anchor="middle" font-size="16" fill="#c00">Oct</text>
-<line x1="942.4528301886793" y1="50" x2="942.4528301886793" y2="280" class="month-line" />
-<text x="942.4528301886793" y="45" text-anchor="middle" font-size="16" fill="#c00">Nov</text>
-<line x1="1025.4716981132076" y1="50" x2="1025.4716981132076" y2="280" class="month-line" />
-<text x="1025.4716981132076" y="45" text-anchor="middle" font-size="16" fill="#c00">Dec</text>
-<line x1="50" y1="96.0" x2="1150" y2="96.0" stroke="#A3B18A" stroke-width="2" />
-<line x1="50" y1="165.0" x2="1150" y2="165.0" stroke="#EEE2B7" stroke-width="2" />
-<line x1="50" y1="257.0" x2="1150" y2="257.0" stroke="#CDB4DB" stroke-width="2" />
+<line x1="50" y1="107.5" x2="1150" y2="107.5" stroke="#1E90FF" stroke-width="3" />
+<line x1="50" y1="165.0" x2="1150" y2="165.0" stroke="#FF8C00" stroke-width="3" />
+<line x1="50" y1="222.5" x2="1150" y2="222.5" stroke="#FF1493" stroke-width="3" />
 <g>
-  <circle cx="382.07547169811323" cy="257.0" r="4" fill="#81B29A" />
-  <circle class="sonar" cx="382.07547169811323" cy="257.0" fill="#81B29A" />
-  <text x="382.07547169811323" y="249.0" text-anchor="middle" font-size="14" fill="#000">Certification Java</text>
+  <circle cx="382.07547169811323" cy="222.5" r="5" fill="#32CD32" />
+  <circle class="sonar" cx="382.07547169811323" cy="222.5" fill="#32CD32" />
+  <text x="382.07547169811323" y="212.5" text-anchor="middle" font-size="14" fill="#000">Certification Java</text>
 </g>
 <g>
-  <circle cx="755.6603773584907" cy="165.0" r="4" fill="#81B29A" />
-  <circle class="sonar" cx="755.6603773584907" cy="165.0" fill="#81B29A" />
-  <text x="755.6603773584907" y="157.0" text-anchor="middle" font-size="14" fill="#000">Adobe - AEM</text>
+  <circle cx="755.6603773584907" cy="165.0" r="5" fill="#32CD32" />
+  <circle class="sonar" cx="755.6603773584907" cy="165.0" fill="#32CD32" />
+  <text x="755.6603773584907" y="155.0" text-anchor="middle" font-size="14" fill="#000">Adobe - AEM</text>
 </g>
 <g>
-  <circle cx="527.3584905660377" cy="96.0" r="4" fill="#AAB7F7" />
-  <circle class="sonar" cx="527.3584905660377" cy="96.0" fill="#AAB7F7" />
-  <text x="527.3584905660377" y="88.0" text-anchor="middle" font-size="14" fill="#000">Master 1</text>
+  <circle cx="527.3584905660377" cy="107.5" r="5" fill="#00CED1" />
+  <circle class="sonar" cx="527.3584905660377" cy="107.5" fill="#00CED1" />
+  <text x="527.3584905660377" y="97.5" text-anchor="middle" font-size="14" fill="#000">Master 1</text>
 </g>
-<line x1="50.0" y1="300" x2="80.0" y2="300" stroke="#A3B18A" stroke-width="4" />
+<line x1="50.0" y1="300" x2="80.0" y2="300" stroke="#1E90FF" stroke-width="4" />
 <text x="85.0" y="306" text-anchor="start" font-size="16" fill="#000">École (Epitech)</text>
-<line x1="233.33333333333334" y1="300" x2="263.33333333333337" y2="300" stroke="#EEE2B7" stroke-width="4" />
+<line x1="233.33333333333334" y1="300" x2="263.33333333333337" y2="300" stroke="#FF8C00" stroke-width="4" />
 <text x="268.33333333333337" y="306" text-anchor="start" font-size="16" fill="#000">Entreprise (CGI)</text>
-<line x1="416.6666666666667" y1="300" x2="446.6666666666667" y2="300" stroke="#CDB4DB" stroke-width="4" />
+<line x1="416.6666666666667" y1="300" x2="446.6666666666667" y2="300" stroke="#FF1493" stroke-width="4" />
 <text x="451.6666666666667" y="306" text-anchor="start" font-size="16" fill="#000">Personnel</text>
-<circle cx="600.0" cy="300" r="5" fill="#81B29A" />
-<text x="610.0" y="306" text-anchor="start" font-size="16" fill="#000">Certification</text>
-<circle cx="783.3333333333334" cy="300" r="5" fill="#AAB7F7" />
-<text x="793.3333333333334" y="306" text-anchor="start" font-size="16" fill="#000">Diplôme</text>
-<circle cx="966.6666666666667" cy="300" r="5" fill="#F3DFA2" />
-<text x="976.6666666666667" y="306" text-anchor="start" font-size="16" fill="#000">Projet</text>
+<circle cx="600.0" cy="300" r="6" fill="#32CD32" />
+<text x="612.0" y="306" text-anchor="start" font-size="16" fill="#000">Certification</text>
+<circle cx="783.3333333333334" cy="300" r="6" fill="#00CED1" />
+<text x="795.3333333333334" y="306" text-anchor="start" font-size="16" fill="#000">Diplôme</text>
+<circle cx="966.6666666666667" cy="300" r="6" fill="#FFD700" />
+<text x="978.6666666666667" y="306" text-anchor="start" font-size="16" fill="#000">Projet</text>
 </svg>
