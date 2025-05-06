@@ -15,10 +15,10 @@
 
 <h1 align="center">Actuellement</h1>
 
-- Je travail chez **CGI** sur des sites **E-commerce**
+- Je travaille chez **CGI** sur des sites **E-commerce**
 - Je passe un master **Architecte de Systèmes d’Information** chez **Epitech**
-- Je suis en train d'apprendre **Java, C** et **AEM**
-- Mes langages et frameworks de références sont **Node.js, Express, React, PostgreSQL**
+- J'apprends actuellement **Java, C** et **AEM**
+- Mes langages et frameworks de prédilection sont **Node.js, Express, React, PostgreSQL**
 
 <hr/>
 
