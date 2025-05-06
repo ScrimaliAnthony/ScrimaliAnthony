@@ -104,18 +104,18 @@
     </p>
 </details>
 
-<hr/>
- 
+<!-- <hr/> -->
+<!--  
 <h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,astro,vite" /><br>
     <img src="https://skillicons.dev/icons?i=java,nodejs,express,python,postman,mysql,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,gcp,docker,kubernetes,netlify,vercel" /><br>
 </div>
-<hr/>
-
+<hr/> -->
+<!-- 
 <div align="center">
   <h1>Mes contributions</h1>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ScrimaliAnthony/ScrimaliAnthony/output/github-contribution-grid-snake.svg" />
-</div>
+</div> -->
