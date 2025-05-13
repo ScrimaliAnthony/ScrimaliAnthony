@@ -37,6 +37,7 @@
       <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
         <img src="./images/Certification Introduction Java Banner.png"></img>
       </a>
+      Cliquez sur la bannière pour voir le certificat
     </p>
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/Battleship-Java" target="_blank">
