@@ -42,42 +42,42 @@
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/Battleship-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java&description"
           alt="Battleship-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&description"
           alt="BullsAndCows-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&description"
           alt="CoffeeMachineSimulator-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/LastPencils-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&description"
           alt="LastPencils-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java&description"
           alt="CinemaRoomManager-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&description"
           alt="TicTacToe-Java"
           width="49%"
         />
