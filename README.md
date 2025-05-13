@@ -42,28 +42,28 @@
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/Battleship-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java&description"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java&"
           alt="Battleship-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&description"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&"
           alt="BullsAndCows-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&"
           alt="CoffeeMachineSimulator-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/LastPencils-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&description"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&"
           alt="LastPencils-Java"
           width="49%"
         />
