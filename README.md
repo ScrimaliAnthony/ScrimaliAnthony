@@ -77,7 +77,7 @@
       </a>
       <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&description"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&"
           alt="TicTacToe-Java"
           width="49%"
         />
