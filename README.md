@@ -70,7 +70,7 @@
       </a>
       <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java&"
           alt="CinemaRoomManager-Java"
           width="49%"
         />
