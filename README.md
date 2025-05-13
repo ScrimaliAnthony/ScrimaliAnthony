@@ -56,7 +56,7 @@
       </a>
       <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&description"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&"
           alt="CoffeeMachineSimulator-Java"
           width="49%"
         />
