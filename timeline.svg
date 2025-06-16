@@ -13,6 +13,7 @@
       text { font-family: sans-serif; }
     </style>
     
+<rect x="0" y="0" width="1200" height="380" fill="#F5F5DC" />
 <line x1="50.0" y1="50" x2="50.0" y2="280" class="month-line" />
 <text x="50.0" y="45" text-anchor="middle" font-size="16" fill="#c00">Jan</text>
 <line x1="133.0188679245283" y1="50" x2="133.0188679245283" y2="280" class="month-line" />

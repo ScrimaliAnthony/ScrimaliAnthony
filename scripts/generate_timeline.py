@@ -58,7 +58,8 @@ svg = [
       }
       text { font-family: sans-serif; }
     </style>
-    """
+    """,
+    f'<rect x="0" y="0" width="{WIDTH}" height="{HEIGHT}" fill="#F5F5DC" />',
 ]
 
 # 1) Lignes de mois
