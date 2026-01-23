@@ -88,6 +88,12 @@
 <details>
   <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=c"/> Harvard CS50x</h1></summary>
     <p align="center">
+      <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png" target="_blank">
+        <img src="./images/Certification Harvard CS50x.png"></img>
+      </a>
+      Cliquez sur la bannière pour voir le certificat
+    </p>
+    <p align="center">
       <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C"
