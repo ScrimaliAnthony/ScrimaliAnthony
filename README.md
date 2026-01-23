@@ -94,59 +94,10 @@
       Cliquez sur la bannière pour voir le certificat
     </p>
     <p align="center">
-      <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
+      <a href="https://github.com/ScrimaliAnthony/PomodoroWeb" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C"
-          alt="C"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays"
-          alt="Arrays"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms"
-          alt="Algorithms"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory"
-          alt="Memory"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures"
-          alt="Data Structures"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python"
-          alt="Python"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL"
-          alt="SQL"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend" target="_blank">
-        <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend"
-          alt="Frontend"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb"
+          alt="PomodoroWeb"
           width="49%"
         />
       </a>
@@ -157,10 +108,59 @@
           width="49%"
         />
       </a>
-      <a href="https://github.com/ScrimaliAnthony/PomodoroWeb" target="_blank">
+      <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb"
-          alt="PomodoroWeb"
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend"
+          alt="Frontend"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL"
+          alt="SQL"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python"
+          alt="Python"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures"
+          alt="Data Structures"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory"
+          alt="Memory"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms"
+          alt="Algorithms"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays"
+          alt="Arrays"
+          width="49%"
+        />
+      </a>
+      <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
+        <img
+          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C"
+          alt="C"
           width="49%"
         />
       </a>
