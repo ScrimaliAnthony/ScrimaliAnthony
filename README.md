@@ -42,42 +42,42 @@
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/Battleship-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java"
           alt="Battleship-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&"
           alt="BullsAndCows-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&"
           alt="CoffeeMachineSimulator-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/LastPencils-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&"
           alt="LastPencils-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java&"
           alt="CinemaRoomManager-Java"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&"
           alt="TicTacToe-Java"
           width="49%"
         />
@@ -96,70 +96,70 @@
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/PomodoroWeb" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb&"
           alt="PomodoroWeb"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-9_Flask&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-9_Flask&"
           alt="Flask"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend&"
           alt="Frontend"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL&"
           alt="SQL"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python&"
           alt="Python"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures&"
           alt="Data Structures"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory&"
           alt="Memory"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms&"
           alt="Algorithms"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays&"
           alt="Arrays"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
         <img
-          src="https://github-readme-stats.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C&"
           alt="C"
           width="49%"
         />
