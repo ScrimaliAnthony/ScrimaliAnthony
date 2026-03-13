@@ -96,70 +96,70 @@
     <p align="center">
       <a href="https://github.com/ScrimaliAnthony/PomodoroWeb" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb&v=2"
           alt="PomodoroWeb"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-9_Flask&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-9_Flask&v=2"
           alt="Flask"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend&v=2"
           alt="Frontend"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL&v=2"
           alt="SQL"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python&v=2"
           alt="Python"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures&v=2"
           alt="Data Structures"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory&v=2"
           alt="Memory"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms&v=2"
           alt="Algorithms"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays&v=2"
           alt="Arrays"
           width="49%"
         />
       </a>
       <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
         <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C&"
+          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C&v=2"
           alt="C"
           width="49%"
         />
