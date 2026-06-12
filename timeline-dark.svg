@@ -7,39 +7,39 @@
   }
 
   .week-line {
-    stroke: #F3B3B3;
+    stroke: #30363D;
     stroke-width: 1;
   }
 
   .month-line {
-    stroke: #DC2626;
+    stroke: #FF7B72;
     stroke-width: 2;
   }
 
   .current-line {
-    stroke: #16A34A;
+    stroke: #3FB950;
     stroke-width: 3;
   }
 
   .event-label {
-    fill: #111827;
+    fill: #F0F6FC;
     font-size: 14px;
     font-weight: 600;
   }
 
   .month-label {
-    fill: #DC2626;
+    fill: #FF7B72;
     font-size: 15px;
     font-weight: 700;
   }
 
   .legend-label {
-    fill: #374151;
+    fill: #C9D1D9;
     font-size: 15px;
   }
 </style>
 
-<rect x="0" y="0" width="1200" height="360" rx="18" fill="#F8F8EA" stroke="#D9D9C3" />
+<rect x="0" y="0" width="1200" height="360" rx="18" fill="#0D1117" stroke="#30363D" />
 <line x1="70.00" y1="70" x2="70.00" y2="235" class="week-line" />
 <line x1="90.33" y1="70" x2="90.33" y2="235" class="week-line" />
 <line x1="110.66" y1="70" x2="110.66" y2="235" class="week-line" />
