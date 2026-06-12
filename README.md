@@ -52,9 +52,9 @@
   <div align="center">
     <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./images/java-introduction-banner-dark.svg">
-        <source media="(prefers-color-scheme: light)" srcset="./images/java-introduction-banner-light.svg">
-        <img src="./images/java-introduction-banner-light.svg" alt="Java Introduction Certification" width="1000">
+        <source media="(prefers-color-scheme: dark)" srcset="./images/java-introduction-banner-dark-fixed.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./images/java-introduction-banner-light-fixed.svg">
+        <img src="./images/java-introduction-banner-light-fixed.svg" alt="Java Introduction Certification" width="1000">
       </picture>
     </a>
 
