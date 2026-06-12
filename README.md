@@ -71,46 +71,46 @@
 
   <div align="center">
     <a href="https://github.com/ScrimaliAnthony/Battleship-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=Battleship-Java"
-        alt="Battleship-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=Battleship-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=Battleship-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=Battleship-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="Battleship-Java" width="49%" />
+      </picture>
     </a>
     <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=BullsAndCows-Java"
-        alt="BullsAndCows-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=BullsAndCows-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=BullsAndCows-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=BullsAndCows-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="BullsAndCows-Java" width="49%" />
+      </picture>
     </a>
     <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CoffeeMachineSimulator-Java"
-        alt="CoffeeMachineSimulator-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CoffeeMachineSimulator-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CoffeeMachineSimulator-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CoffeeMachineSimulator-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CoffeeMachineSimulator-Java" width="49%" />
+      </picture>
     </a>
     <a href="https://github.com/ScrimaliAnthony/LastPencils-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=LastPencils-Java"
-        alt="LastPencils-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=LastPencils-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=LastPencils-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=LastPencils-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="LastPencils-Java" width="49%" />
+      </picture>
     </a>
     <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CinemaRoomManager-Java"
-        alt="CinemaRoomManager-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CinemaRoomManager-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CinemaRoomManager-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CinemaRoomManager-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CinemaRoomManager-Java" width="49%" />
+      </picture>
     </a>
     <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=TicTacToe-Java"
-        alt="TicTacToe-Java"
-        width="49%"
-      />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=TicTacToe-Java&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=TicTacToe-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+        <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=TicTacToe-Java&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="TicTacToe-Java" width="49%" />
+      </picture>
     </a>
   </div>
 </details>
@@ -141,78 +141,79 @@
 
   <br />
 
-  <div align="center">
-    <a href="https://github.com/ScrimaliAnthony/PomodoroWeb">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=PomodoroWeb&amp;v=2"
-        alt="PomodoroWeb"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-9_Flask&amp;v=2"
-        alt="CS50x Flask"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-8_Frontend&amp;v=2"
-        alt="CS50x Frontend"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-7_SQL&amp;v=2"
-        alt="CS50x SQL"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-6_Python&amp;v=2"
-        alt="CS50x Python"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-5_Data-Structures&amp;v=2"
-        alt="CS50x Data Structures"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-4_Memory&amp;v=2"
-        alt="CS50x Memory"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-3_Algorithms&amp;v=2"
-        alt="CS50x Algorithms"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-2_Arrays&amp;v=2"
-        alt="CS50x Arrays"
-        width="49%"
-      />
-    </a>
-    <a href="https://github.com/ScrimaliAnthony/CS50x-1_C">
-      <img
-        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-1_C&amp;v=2"
-        alt="CS50x C"
-        width="49%"
-      />
-    </a>
-  </div>
+<div align="center">
+  <a href="https://github.com/ScrimaliAnthony/PomodoroWeb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=PomodoroWeb&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=PomodoroWeb&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=PomodoroWeb&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="PomodoroWeb" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-9_Flask&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-9_Flask&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-9_Flask&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Flask" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-8_Frontend&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-8_Frontend&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-8_Frontend&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Frontend" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-7_SQL&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-7_SQL&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-7_SQL&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x SQL" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-6_Python&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-6_Python&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-6_Python&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Python" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-5_Data-Structures&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-5_Data-Structures&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-5_Data-Structures&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Data Structures" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-4_Memory&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-4_Memory&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-4_Memory&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Memory" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-3_Algorithms&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-3_Algorithms&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-3_Algorithms&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Algorithms" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-2_Arrays&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-2_Arrays&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-2_Arrays&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x Arrays" width="49%" />
+    </picture>
+  </a>
+  <a href="https://github.com/ScrimaliAnthony/CS50x-1_C">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-1_C&amp;v=2&amp;title_color=58A6FF&amp;text_color=C9D1D9&amp;icon_color=8B949E&amp;bg_color=0D1117&amp;border_color=30363D">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-1_C&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE">
+      <img src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-1_C&amp;v=2&amp;title_color=0969DA&amp;text_color=57606A&amp;icon_color=57606A&amp;bg_color=FFFFFF&amp;border_color=D0D7DE" alt="CS50x C" width="49%" />
+    </picture>
+  </a>
+</div>
+
 </details>
 
 <details>
