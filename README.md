@@ -45,10 +45,10 @@
 
 <details>
   <summary>
-    <strong>
+    <h2>
       <img width="30px" src="https://skillicons.dev/icons?i=java" alt="Java" />
       Certification Java
-    </strong>
+    </h2>
   </summary>
 
   <br />
@@ -117,10 +117,10 @@
 
 <details>
   <summary>
-    <strong>
+    <h2>
       <img width="30px" src="https://skillicons.dev/icons?i=c" alt="C" />
       Harvard CS50x
-    </strong>
+    </h2>
   </summary>
 
   <br />
@@ -218,10 +218,10 @@
 
 <details>
   <summary>
-    <strong>
+    <h2>
       <img width="30px" src="https://skillicons.dev/icons?i=react" alt="React" />
       Meta React Basics
-    </strong>
+    </h2>
   </summary>
 
   <br />
