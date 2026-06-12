@@ -1,184 +1,260 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ScrimaliAnthony.ScrimaliAnthony" />
-<img src="./images/Banner.png">
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ScrimaliAnthony.ScrimaliAnthony" alt="Visitors badge" />
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/github-banner-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./images/github-banner-light.svg">
+    <img src="./images/github-banner-light.svg" alt="GitHub profile banner" width="100%">
+  </picture>
+</div>
+
+<br />
+
 <div align="center"> 
   <a href="mailto:anthony.scrimali@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/anthony-scrimali-02187b146/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/anthony-scrimali-02187b146/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <!-- <a href="https://anthony-scrimali-cv-scss.netlify.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
 </div>
-<hr/>
 
-<h1 align="center">Actuellement</h1>
+<hr />
 
-- Je travaille chez **CGI** sur des sites **E-commerce**
-- Je passe un master **Architecte de Systèmes d’Information** chez **Epitech**
-- J'apprends actuellement **Java, C** et **AEM**
-- Mes langages et frameworks de prédilection sont **Node.js, Express, React, PostgreSQL**
+<h2 align="center">Actuellement</h2>
 
-<hr/>
+* Développeur web en alternance chez CGI, où je contribue à des projets applicatifs orientés besoins métier et expérience utilisateur
+* Étudiant en mastère **Architecte de Systèmes d’Information** à **Epitech**
+* J’approfondis actuellement les écosystèmes **Java/JVM**, **Node.js/TypeScript** et **AEM**
+* Stack principale : **React**, **Express**, **PostgreSQL**, avec une attention particulière au tooling et à l’industrialisation
+
+<hr />
 
 <div align="center">
-  <h1>Feuille de route</h1>
-  <img src="./timeline.svg" alt="Timeline Animée" />
+  <h2>Feuille de route</h2>
+  <img src="./timeline.svg" alt="Timeline animée" />
 </div>
 
-<hr/>
+<hr />
 
-<h1 align="center">Certifications</h1>
+<h2 align="center">Certifications</h2>
 
 <details>
-  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=java"/> Certification Java</h1></summary>
-    <p align="center">
-      <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf" target="_blank">
-        <img src="./images/Certification Introduction Java Banner.png"></img>
-      </a>
-      Cliquez sur la bannière pour voir le certificat
-    </p>
-    <p align="center">
-      <a href="https://github.com/ScrimaliAnthony/Battleship-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=Battleship-Java"
-          alt="Battleship-Java"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=BullsAndCows-Java&"
-          alt="BullsAndCows-Java"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CoffeeMachineSimulator-Java&"
-          alt="CoffeeMachineSimulator-Java"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/LastPencils-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=LastPencils-Java&"
-          alt="LastPencils-Java"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CinemaRoomManager-Java&"
-          alt="CinemaRoomManager-Java"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=TicTacToe-Java&"
-          alt="TicTacToe-Java"
-          width="49%"
-        />
-      </a>
-    </p>
+  <summary>
+    <strong>
+      <img width="30px" src="https://skillicons.dev/icons?i=java" alt="Java" />
+      Certification Java
+    </strong>
+  </summary>
+
+  <br />
+
+  <div align="center">
+    <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/java-introduction-banner-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./images/java-introduction-banner-light.svg">
+        <img src="./images/java-introduction-banner-light.svg" alt="Java Introduction Certification" width="1000">
+      </picture>
+    </a>
+
+  <br />
+    <sub>Cliquez sur la bannière pour voir le certificat</sub>
+
+  </div>
+
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/ScrimaliAnthony/Battleship-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=Battleship-Java"
+        alt="Battleship-Java"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/BullsAndCows-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=BullsAndCows-Java"
+        alt="BullsAndCows-Java"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CoffeeMachineSimulator-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CoffeeMachineSimulator-Java"
+        alt="CoffeeMachineSimulator-Java"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/LastPencils-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=LastPencils-Java"
+        alt="LastPencils-Java"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CinemaRoomManager-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CinemaRoomManager-Java"
+        alt="CinemaRoomManager-Java"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/TicTacToe-Java">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=TicTacToe-Java"
+        alt="TicTacToe-Java"
+        width="49%"
+      />
+    </a>
+  </div>
 </details>
 
 <details>
-  <summary><h1><img width="30px" src="https://skillicons.dev/icons?i=c"/> Harvard CS50x</h1></summary>
-    <p align="center">
-      <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png" target="_blank">
-        <img src="./images/Certification Harvard CS50x.png"></img>
-      </a>
-      Cliquez sur la bannière pour voir le certificat
-    </p>
-    <p align="center">
-      <a href="https://github.com/ScrimaliAnthony/PomodoroWeb" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=PomodoroWeb&v=2"
-          alt="PomodoroWeb"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-9_Flask&v=2"
-          alt="Flask"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-8_Frontend&v=2"
-          alt="Frontend"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-7_SQL&v=2"
-          alt="SQL"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-6_Python&v=2"
-          alt="Python"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-5_Data-Structures&v=2"
-          alt="Data Structures"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-4_Memory&v=2"
-          alt="Memory"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-3_Algorithms&v=2"
-          alt="Algorithms"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-2_Arrays&v=2"
-          alt="Arrays"
-          width="49%"
-        />
-      </a>
-      <a href="https://github.com/ScrimaliAnthony/CS50x-1_C" target="_blank">
-        <img
-          src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&repo=CS50x-1_C&v=2"
-          alt="C"
-          width="49%"
-        />
-      </a>
-    </p>
+  <summary>
+    <strong>
+      <img width="30px" src="https://skillicons.dev/icons?i=c" alt="C" />
+      Harvard CS50x
+    </strong>
+  </summary>
+
+  <br />
+
+  <div align="center">
+    <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/harvard-cs50x-banner-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./images/harvard-cs50x-banner-light.svg">
+        <img src="./images/harvard-cs50x-banner-light.svg" alt="Harvard CS50x Certification" width="1000">
+      </picture>
+    </a>
+
+  <br />
+    <sub>Cliquez sur la bannière pour voir le certificat</sub>
+
+  </div>
+
+  <br />
+
+  <div align="center">
+    <a href="https://github.com/ScrimaliAnthony/PomodoroWeb">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=PomodoroWeb&amp;v=2"
+        alt="PomodoroWeb"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-9_Flask">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-9_Flask&amp;v=2"
+        alt="CS50x Flask"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-8_Frontend">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-8_Frontend&amp;v=2"
+        alt="CS50x Frontend"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-7_SQL">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-7_SQL&amp;v=2"
+        alt="CS50x SQL"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-6_Python">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-6_Python&amp;v=2"
+        alt="CS50x Python"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-5_Data-Structures">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-5_Data-Structures&amp;v=2"
+        alt="CS50x Data Structures"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-4_Memory">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-4_Memory&amp;v=2"
+        alt="CS50x Memory"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-3_Algorithms">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-3_Algorithms&amp;v=2"
+        alt="CS50x Algorithms"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-2_Arrays">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-2_Arrays&amp;v=2"
+        alt="CS50x Arrays"
+        width="49%"
+      />
+    </a>
+    <a href="https://github.com/ScrimaliAnthony/CS50x-1_C">
+      <img
+        src="https://github-readme-stats-snowy-one-45.vercel.app/api/pin/?username=ScrimaliAnthony&amp;repo=CS50x-1_C&amp;v=2"
+        alt="CS50x C"
+        width="49%"
+      />
+    </a>
+  </div>
 </details>
 
-<hr/>
- 
-<h1 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h1>
+<details>
+  <summary>
+    <strong>
+      <img width="30px" src="https://skillicons.dev/icons?i=react" alt="React" />
+      Meta React Basics
+    </strong>
+  </summary>
+
+  <br />
+
+  <div align="center">
+    <!-- TODO: remplace ce lien par le vrai lien du certificat React si nécessaire -->
+    <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./images/meta-react-basics-dark.svg">
+        <source media="(prefers-color-scheme: light)" srcset="./images/meta-react-basics-light.svg">
+        <img src="./images/meta-react-basics-light.svg" alt="Meta React Basics Certification" width="1000">
+      </picture>
+    </a>
+
+
+  <br />
+    <sub>Cliquez sur la bannière pour voir le certificat</sub>
+
+
+  </div>
+</details>
+
+<hr />
+
+<h2 align="center">⚒️ Langages, frameworks & outils ⚒️</h2>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,react,astro,vite" /><br>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,express,python,postman,mysql,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,gcp,docker,kubernetes,netlify,vercel" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,scss,javascript,typescript,react,astro,vite" alt="Frontend skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=java,nodejs,express,python,postman,mysql,postgresql" alt="Backend skills" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=git,github,gcp,docker,kubernetes,netlify,vercel" alt="DevOps and tools" />
 </div>
-<hr/>
+
+<hr />
 
 <div align="center">
-  <h1>Mes contributions</h1>
+  <h2>Mes contributions</h2>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ScrimaliAnthony/ScrimaliAnthony/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/ScrimaliAnthony/ScrimaliAnthony/output/github-contribution-grid-snake.svg" alt="Snake animation showing GitHub contributions" />
 </div>
