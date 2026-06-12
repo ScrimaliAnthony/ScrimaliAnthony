@@ -227,8 +227,7 @@
   <br />
 
   <div align="center">
-    <!-- TODO: remplace ce lien par le vrai lien du certificat React si nécessaire -->
-    <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png">
+    <a href="https://scrimalianthony.github.io/Certifications/React/Coursera%207135XH90KSO9.pdf">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/meta-react-basics-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./images/meta-react-basics-light.svg">
