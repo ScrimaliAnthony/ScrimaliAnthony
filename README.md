@@ -54,7 +54,7 @@
   <br />
 
   <div align="center">
-    <a href="https://scrimalianthony.github.io/Certifications/React/Coursera%207135XH90KSO9.pdf">
+    <a href="https://scrimalianthony.github.io/Certifications/Java/Hyperskill%20Certificate%208-4d95a2ac.pdf">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/java-introduction-banner-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./images/java-introduction-banner-light.svg">
@@ -228,7 +228,7 @@
 
   <div align="center">
     <!-- TODO: remplace ce lien par le vrai lien du certificat React si nécessaire -->
-    <a href="https://github.com/ScrimaliAnthony/Certifications/blob/master/React/Coursera%207135XH90KSO9.pdf">
+    <a href="https://scrimalianthony.github.io/Certifications/CS50x/CS50x.png">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="./images/meta-react-basics-dark.svg">
         <source media="(prefers-color-scheme: light)" srcset="./images/meta-react-basics-light.svg">
