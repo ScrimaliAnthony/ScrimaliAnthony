@@ -1,4 +1,4 @@
-name: 🔄 Mettre à jour la timeline
+name: Mettre à jour la timeline
 
 on:
   schedule:
@@ -29,5 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add timeline.svg
-          git diff --quiet || git commit -m "🔄 Mise à jour automatique de la timeline"
+          git diff --quiet || git commit -m "Mise à jour automatique de la timeline"
           git push
